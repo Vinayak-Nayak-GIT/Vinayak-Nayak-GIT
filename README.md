@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://github.com/Vinayak-Nayak-GIT/Vinayak-Nayak-GIT/blob/main/gallery%20(1).gif" alt="Logo" width="100%"> </p>
 <h1 align="center">Hi 👋, I'm Vinayak Nayak</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
