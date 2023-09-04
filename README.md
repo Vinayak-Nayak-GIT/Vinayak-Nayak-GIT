@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-nayak-git&show_icons=true&locale=en" alt="vinayak-nayak-git" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-nayak-git&" alt="vinayak-nayak-git" /></p> <img align="right" alt="coding" width="350" src="https://github.com/Vinayak-Nayak-GIT/Vinayak-Nayak-GIT/blob/main/R017.gif">
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-nayak-git&" alt="vinayak-nayak-git" /></p> <img align="left" alt="coding" width="350" src="https://github.com/Vinayak-Nayak-GIT/Vinayak-Nayak-GIT/blob/main/R017.gif">
