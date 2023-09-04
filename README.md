@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/Vinayak-Nayak-GIT/Vinayak-Nayak-GIT/blob/main/R017.gif">
+<img align="right" alt="coding" width="500" src="https://github.com/Vinayak-Nayak-GIT/Vinayak-Nayak-GIT/blob/main/D035.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-nayak-git&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-nayak-git" /> </p>
 
