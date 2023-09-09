@@ -35,7 +35,7 @@
 
 <img align="right" alt="coding" width="45%" src="https://certificates.simplicdn.net/share/thumb_4373707.png">
 
-<img align="left" alt="coding" width="45%" src="https://www.udemy.com/certificate/UC-8bdf221b-0668-41ea-9177-a1b03a824617">
+<img align="left" alt="coding" width="45%" src="https://github.com/Vinayak-Nayak-GIT/Vinayak-Nayak-GIT/blob/main/UC-8bdf221b-0668-41ea-9177-a1b03a824617.jpg">
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak-nayak-git&show_icons=true&locale=en&layout=compact" alt="vinayak-nayak-git" /></p>
 
