@@ -15,7 +15,7 @@
 
 - 👨‍💻 Visit to my Linkedin Profile at [https://www.linkedin.com/in/vinayak-nayak-7091051a0](https://www.linkedin.com/in/vinayak-nayak-7091051a0)
 
-- 📫 How to reach me **vinayaknayak01110101@gmail.com**
+- 📫 How to reach me **vinayaknayak0010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
